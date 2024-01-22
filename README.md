@@ -7,7 +7,7 @@
 - ⚡ Quanto mais desafiador, mais instigado eu fico.
   <div>
     
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GabsPere&theme=gruvbox)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GabsPere&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPere&theme=gruvbox&hide_border=true)
   </div>
    
