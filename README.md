@@ -1,6 +1,6 @@
 ### Olá, mundo!
 
-- 🌱 Atualmente estou aprendendo Python e computação em nuvem, mas me aventuro em outras linguagens também.
+- 🌱 Atualmente estou aprendendo programação e computação em nuvem.
 - 👯 Busco colaborar em projetos que estão alinhados com meus estudos.
 - 🤔 Como sou iniciante na área de TI, qualquer conselho será bem vindo.
 - 😄 Ele/Dele
