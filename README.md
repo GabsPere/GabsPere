@@ -2,7 +2,6 @@
 - 🌱 Entusiasta na área da programação.
 - 👯 Busco colaborar em projetos que estão alinhados com meus estudos.
 - 🤔 Como sou iniciante na área de TI, qualquer conselho será bem vindo.
-- 😄 Ele/Dele
 - ⚡ Quanto mais desafiador, mais instigado eu fico.
   <div>
     
