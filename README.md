@@ -1,14 +1,14 @@
-### Olá, mundo!
-
-- 🌱 Atualmente estou aprendendo programação e computação em nuvem.
+[![MasterHead](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)](https://github.com/GabsPere)
+- 🌱 Entusiasta na área da programação.
 - 👯 Busco colaborar em projetos que estão alinhados com meus estudos.
 - 🤔 Como sou iniciante na área de TI, qualquer conselho será bem vindo.
 - 😄 Ele/Dele
 - ⚡ Quanto mais desafiador, mais instigado eu fico.
   <div>
     
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=GabsPere&theme=tokyonight&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPere&theme=tokyonight&hide_border=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPere&show_icons=true&theme=gotham&rank_icon=github&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPere&layout=compact&theme=gotham&hide_border=true)
+
   </div>
    
   ##
