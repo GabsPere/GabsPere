@@ -7,6 +7,7 @@
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPere&show_icons=true&theme=gotham&rank_icon=github&hide_border=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPere&layout=compact&theme=gotham&hide_border=true)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pere)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
    
