@@ -6,17 +6,15 @@
   
   <div>
     
-  ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPere&show_icons=true&theme=gotham&rank_icon=github&hide_border=true)
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pere)](https://wakatime.com/@Pere)
+
+  <div>
+  
   ##
-  <div>
-  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&color=251942)](https://www.linkedin.com/in/gabrielfelipedeoliveira/)
-  <div>
-    
+ 
   
-  </div>
   
   
   
