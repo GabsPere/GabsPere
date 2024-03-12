@@ -6,8 +6,10 @@
   
   <div>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPere&show_icons=true&theme=gotham&rank_icon=github&hide_border=true)
+    ##
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pere)](https://wakatime.com/@Pere)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPere&show_icons=true&theme=gotham&rank_icon=github&hide_border=true)
+  
 
   <div>
   
