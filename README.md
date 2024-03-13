@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. I have a good english and basic spanish. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. At the moment I'm studying for the CLF-CO2 exam. Because the program I'm started with programming and fell in love with this world.
+  - 💬 I am 23 years old, currently living in Brazil. I have a good english and basic spanish. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. At the moment I'm studying for the CLF-CO2 exam and Python. Because the program I'm started with programming and fell in love with this world.
 
   - ⚡ I enjoy reading, write, watching animes and play games in my free time.
 </details>
